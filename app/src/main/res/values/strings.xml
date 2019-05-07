@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">AesopsFable</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fable1">Fable1</string>
+    <string name="title_activity_fable2">Fable2</string>
+    <string name="title_activity_fable3">Fable3</string>
+    <string name="title_activity_fable4">Fable4</string>
+    <string name="title_activity_fable5">Fable5</string>
+    <string name="title_activity_fable6">Fable6</string>
+    <string name="title_activity_fable7">Fable7</string>
+    <string name="title_activity_fable8">Fable8</string>
+    <string name="title_activity_fable9">Fable9</string>
+    <string name="title_activity_fable10">Fable10</string>
+    <string name="Fable1_Text">"In a field one summer's day a Grasshopper was hopping about, chirping and singing to its heart's content. An Ant passed by, bearing along with great toil an ear of corn he was taking to the nest.
+
+Why not come and chat with me, said the Grasshopper, instead of toiling and moiling in that way?
+
+    I am helping to lay up food for the winter, said the Ant,and recommend you to do the same.
+
+    Why bother about winter? said the Grasshopper; we have got plenty of food at present.
+
+    But the Ant went on its way and continued its toil.
+
+    When the winter came the Grasshopper had no food and found itself dying of hunger, while it saw the ants distributing every day corn and grain from the stores they had collected in the summer.
+
+    Then the Grasshopper knew: It is best to prepare for the days of necessity."
+
+</string>
+
+    <string name="Fable2_Text">"There was once a Bald Man who sat down after work on a hot summer's day.
+
+A Fly came up and kept buzzing about his bald pate, and stinging him from time to time.
+
+The Man aimed a blow at his little enemy, but his palm came on his head instead.
+
+Again the Fly tormented him, but this time the Man was wiser and said:
+
+You will only injure yourself if you take notice of despicable enemies."/>
+</string>
+
+    <string name="Fable3_Text">"An Arab Camel-driver having completed the lading of his Camel, asked him which he would like best, to go up hill or down hill.
+
+The poor beast replied, not without a touch of reason: Why do you ask me? Is it that the level way through the desert is closed?"/>
+</string>
+
+    <string name="Fable4_Text">"A cock was once strutting up and down the farmyard among the hens when suddenly he espied something shinning amid the straw.
+
+"Ho! ho!" quoth he, that's for me, and soon rooted it out from beneath the straw.
+
+What did it turn out to be but a Pearl that by some chance had been lost in the yard?
+
+"You may be a treasure," quoth Master Cock,"to men that prize you, but for me I would rather have a single barley-corn than a peck of pearls."
+    </string>
+
+
+
+    <string name="Fable5_Text">"A Gentleman, having prepared a great feast, invited a Friend to supper; and the Gentleman's Dog, meeting the Friend's Dog, Come,said he, my good fellow, and sup with us to-night.
+
+    The Dog was delighted with the invitation, and as he stood by and saw the preparations for the feast, said to himself: Capital fare indeed! this is, in truth, good luck. I shall revel in dainties, and I will take good care to lay in an ample stock to-night, for I may have nothing to eat to-morrow.
+
+    As he said this to himself, he wagged his tail, and gave a sly look at his friend who had incited him.
+
+    But his tail wagging to and fro caught the cook's eye, who, seeing a stranger, straightway seized him by the legs, and threw him out the window to the street below.
+
+    When he reached the ground, he set off yelping down the street; upon which the neighbors' dogs ran up to him and asked him how he liked his supper. "In faith," said he, with a sorry smile, "I hardly know, for we drank so deeply, that I can't even tell you which way I got out."/>
+
+
+
+</string>
+
+    <string name="Fable6_Text">"A Lion once fell in love with a beautiful maiden and proposed marriage to her parents.
+
+The old people did not know what to say.
+
+They did not like to give their daughter to the Lion, yet they did not wish to enrage the King of Beasts.
+
+At last the father said:
+
+We feel highly honoured by your Majesty's proposal, but you see our daughter is a tender young thing, and we fear that in the vehemence of your affection you might possibly do her some injury. Might I venture to suggest that your Majesty should have your claws removed, and your teeth extracted, then we would gladly consider your proposal again.
+
+The Lion was so much in love that he had his claws trimmed and his big teeth taken out.
+
+But when he came again to the parents of the young girl they simply laughed in his face, and bade him do his worst.</string>
+
+    <string name="Fable7_Text">"A Dog used to run up quietly to the heels of those he met, and to bite them without notice.
+
+His master sometimes suspended a bell about his neck, that he might give notice of his presence wherever he went, and sometimes he fastened a chain about his neck, to which was attached a heavy clog, so that he could not be so quick at biting people's heels.
+
+The Dog grew proud of his bell and clog, and went with them all over the market-place.
+
+An old hound said to him: "Why do you make such an exhibition of yourself? That bell and clog that you carry are not, believe me, orders of merit, but, on the contrary, marks of disgrace, a public notice to all men to avoid you as an ill-mannered dog."
+
+</string>
+
+    <string name="Fable8_Text">"Be quiet now, said an old Nurse to a child sitting on her lap.
+
+    "If you make that noise again I will throw you to the Wolf."
+
+    Now it chanced that a Wolf was passing close under the window as this was said.
+
+    So he crouched down by the side of the house and waited.
+
+    I am in good luck to-day,thought he. It is sure to cry soon, and a daintier morsel I haven't had for many a long day.
+
+    So he waited, and he waited, and he waited, till at last the child began to cry, and the Wolf came forward before the window, and looked up to the Nurse, wagging his tail.
+
+    But all the Nurse did was to shut down the window and call for help, and the dogs of the house came rushing out.
+
+    Ah, said the Wolf as he galloped away, Enemies promises were made to be broken."
+    </string>
+
+    <string name="Fable9_Text">"
+A cock was once strutting up and down the farmyard among the hens when suddenly he espied something shinning amid the straw.
+
+Ho! ho!quoth he, that's for me, and soon rooted it out from beneath the straw.
+
+What did it turn out to be but a Pearl that by some chance had been lost in the yard?
+
+You may be a treasure,quoth Master Cock,
+
+to men that prize you, but for me I would rather have a single barley-corn than a peck of pearls."
+    </string>
+
+    <string name="Fable10_Text">"A young Man had been caught in a daring act of theft and had been condemned to be executed for it.
+
+He expressed his desire to see his Mother, and to speak with her before he was led to execution, and of course this was granted.
+
+When his Mother came to him he said: "I want to whisper to you," and when she brought her ear near him, he nearly bit it off. All the bystanders were horrified, and asked him what he could mean by such brutal and inhuman conduct.
+
+"It is to punish her," he said. "When I was young I began with stealing little things, and brought them home to Mother. Instead of rebuking and punishing me, she laughed and said: It will not be noticed. It is because of her that I am here to-day."
+
+"He is right, woman," said the Priest; "the Lord hath said: Train up a child in the way he should go; and when he is old he will not depart therefrom."
+
+    </string>
+
+
+
+
+</resources>
